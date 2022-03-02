@@ -1,0 +1,24 @@
+&lt;p&gt; e &lt;/p&gt;  <!--LESS THAN / GREATER THAN-->
+
+<!--Consultar emojis no site emojipedia.org-->
+
+sites para imagens
+Unsplash
+Pexels (e vídeos)
+GIMP - programa para manipulação de imagens que é gratuito
+
+------
+
+SITE PARA BAIXAR ´CIONAS
+iconarchive
+favicon.io -> transforma outras coisas em ícones e cria ícones
+
+w3.org = consultar recursos obsoletos
+
+------
+
+Site de documentação para downloads de formatos de arquivos
+iana.org
+
+Open source video transcoder
+HandBrake

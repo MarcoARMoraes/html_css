@@ -1,0 +1,34 @@
+Ferramenta de cores
+Adobe Colors (site)
+
+paletton.com |(simula as cores aplicadas em sites na hora)
+coolors (site)
+
+Extensão do chrome para capturar cores de sites = colorzilla
+
+----
+Combinações de fontes legais para CSS
+CSS web safe fonts (site)
+
+fonts.google.com
+dafont.com
+
+Detectar fntes de imagens
+whatfonts
+fontsquirrel
+myfonts
+
+Tudo o que em HTML é "id", em CSS vai ser "#"
+O que for "class" em HTML, no CSS vira "."
+
+erikasarti.com - site de símbolos
+
+# = id
+. = class
+: = pseudo class
+:: = pseudo element
+> = children
+
+PLANEJAMENTO DE SITE
+mockflow.com
+mockups - demonstrações de como ficam sites
